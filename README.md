@@ -1,3 +1,3 @@
 #Packages_installed
-*This file records all packages or solfwares installed on Vinypooh's Mac
 
+*This file records all packages installed on Vinypooh's Mac
