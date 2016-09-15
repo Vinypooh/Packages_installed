@@ -2,5 +2,6 @@
 
 *This file records all packages installed on Vinypooh's Mac*
 
-###Python
-    -pyenv
+###Shell
+    -[pyenv](https://github.com/yyuu/pyenv): python version control
+
